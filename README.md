@@ -61,6 +61,8 @@ Details of training can be found at [Huggingface TensorBoard](https://huggingfac
 | Transfer Learning with `google/vit-base-patch16-224` (without data augmentation) | runs/May14_22-52-45_ip-10-192-12-66                    |
 | Transfer Learning with `google/vit-base-patch16-224` (with data augmentation)  | runs/May15_06-55-05_ip-10-192-12-251                    |
 
+![alt text](accuracy.PNG)
+
 ## Results
 | Model/Method                                                         | Accuracy | Precision | Recall |
 |----------------------------------------------------------------------|----------|-----------|--------|
