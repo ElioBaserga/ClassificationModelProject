@@ -6,7 +6,7 @@ This project classifies different fruits and vegetables.
 ### Name & URL
 | Name          | URL |
 |---------------|-----|
-| Huggingface   | [Huggingface Space]() |
+| Huggingface   | [Huggingface Space](https://huggingface.co/spaces/ElioBaserga/Fruit_and_Vegetable_Classifier) |
 | Model Page    | [Huggingface Model Page](https://huggingface.co/ElioBaserga/fruits-and-vegetables-vit) |
 | Code          | [GitHub Repository](https://github.com/ElioBaserga/ClassificationModelProject) |
 
@@ -68,7 +68,7 @@ Details of training can be found at [Huggingface TensorBoard](https://huggingfac
 |----------------------------------------------------------------------|----------|-----------|--------|
 | Transfer Learning with `google/vit-base-patch16-224` (without data augmentation) | 95.26%      | -         | -      |
 | Transfer Learning with `google/vit-base-patch16-224` (with data augmentation)  | 91.64%      | -         | -      |
-| Zero-shot Image Classification with `openai/clip-vit-large-patch14` | %      | %    | %    |
+| Zero-shot Image Classification with `openai/clip-vit-large-patch14` | 88.15%      | 89.83%    | 88.15%    |
 
 ## References
 ![Class Distribution](distribution.PNG)  
