@@ -69,3 +69,8 @@ Details of training can be found at [Huggingface TensorBoard](https://huggingfac
 | Transfer Learning with `google/vit-base-patch16-224` (without data augmentation) | 95.26%      | -         | -      |
 | Transfer Learning with `google/vit-base-patch16-224` (with data augmentation)  | 91.64%      | -         | -      |
 | Zero-shot Image Classification with `openai/clip-vit-large-patch14` | %      | %    | %    |
+
+## References
+![Class Distribution](distribution.PNG)  
+![Frucht vs Gemüse](distribution2.PNG)  
+![Sample Prediction (Transfer Learning)](predictions.PNG)
