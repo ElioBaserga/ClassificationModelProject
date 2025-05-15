@@ -18,6 +18,7 @@ The different fruits and vegetables are:
 | Data Source | Description |
 |-------------|-------------|
 | [Fruits and Vegetables](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition/data) | Original dataset from Kaggle containing 36 different fruits and vegetables in total. |
+| [Switch Drive Download](https://drive.switch.ch/index.php/s/DQ5ySiaLbkxPjEb) | Dataset uploaded to Switch Drive. |
 
 ## Data Augmentation
 | Augmentation                     | Description |
